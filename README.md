@@ -30,6 +30,37 @@ Hola 👋, soy Yesica Santos!
 [![Typing SVG](https://camo.githubusercontent.com/a0d4ee5c8ade6c8d92532978856e34de4be418cad95073fef0a00536e91802fa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f6c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465)](https://git.io/typing-svg)
 
 
+## 🚀 Proyectos Principales:
+
+## E-COMMERCE / GAED.JM :
+<a href="https://gaed-jm-dusky.vercel.app/LandingPage" target="_blank" rel="noreferrer">
+  GAED.JM
+</a>
+es un sitio realizado de manera grupal en el bootcamp de soy HENRY, donde se puede ver un E-COMMERCE de indumentraia(masculino/femenino) ubicada en Argentina, en donde el principal enfoque es fusionar las últimas tendencias de la moda urbana y el deporte con una nueva propuesta orientada al público joven que incorpora nuevas marcas y diseños de vanguardia. Nos adaptamos a tiempos de cambios, a las nuevas generaciones.
+
+Cuenta con un Home donde pueden verse los productos mas destacados, así como también las marcas mas relevantes, un buscador, una sección Detalles de cada uno de los productos; así como también una sección de Contacto y otra de Sobre Nosotros con un poco de información relevante. Cuenta con pasarela de pago y un sector de Administrador para el control de ventas y usuarios .
+<br/>
+
+- Frontend: JavaScript, React , Redux, React-router-DOM, HTML, CSS.
+- Frameworks : MercadoPago, Boostrap.
+- Backend: JavaScripts, Node JS, Express, Sequelize.
+- DataBase: SQL.
+- Deploy: Vercel, Heroku.
+
+![gaed](https://user-images.githubusercontent.com/86530370/190000820-db56b6dc-798e-4831-b23a-776a0fb9d915.png)
+![gaed2](https://user-images.githubusercontent.com/86530370/190001095-a1dd992c-c482-439a-b402-63616f32b6b6.png)
+![Admin](https://user-images.githubusercontent.com/86530370/190001358-ee3ed176-8a80-4364-a718-58539479502b.png)
+
+
+## Contactarme:
+
+<p>
+  <a href="https://www.linkedin.com/in/yesica-gabriela-santos-646388214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lemorles" height="30" width="40" /></a>
+</p>
+
+
+
+
 
 
 
