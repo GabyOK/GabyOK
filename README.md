@@ -1,4 +1,4 @@
-Hola 👋, soy Yesica Santos!
+Hola 👋, soy Yesica Santos, tengo 29 años, vivo en Argentina-Buenos Aires. Actualmente me ecnuentro finalizando mis estudios en bootcamp de soy Henry como Full Stack Developer. Hace un año que conoci el mundo IT y me encanta programar.Considero que tengo muy buen manejo de relaciones interpersonales y que cuento con las habilidades necesarias para realizar un buen trabajo en equipo. Anhelo poder adquirir nuevos conocimientos y enfrentarme a nuevos desafios, ya que es fundamental para mi crecimiento personal y profesional.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F747BE&center=falso&vCenter=falso&width=435&lines=Full+Stack+Javascript+Developer)](https://git.io/typing-svg)
 
