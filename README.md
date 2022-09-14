@@ -57,6 +57,7 @@ Cuenta con un Home donde pueden verse los productos mas destacados, así como ta
 <p>
   <a href="https://www.linkedin.com/in/yesica-gabriela-santos-646388214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lemorles" height="30" width="40" /></a>
 </p>
+✉ Email: yesicasantos162@gmail.com
 
 
 
