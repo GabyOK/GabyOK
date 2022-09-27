@@ -42,7 +42,6 @@ Cuenta con un Home donde pueden verse los productos mas destacados, así como ta
 <br/>
 
 - Frontend: JavaScript, React , Redux, React-router-DOM, HTML, CSS.
-- Frameworks : MercadoPago, Boostrap.
 - Backend: JavaScripts, Node JS, Express, Sequelize.
 - DataBase: SQL.
 - Deploy: Vercel, Heroku.
@@ -51,6 +50,26 @@ Cuenta con un Home donde pueden verse los productos mas destacados, así como ta
 ![gaed2](https://user-images.githubusercontent.com/86530370/190001095-a1dd992c-c482-439a-b402-63616f32b6b6.png)
 ![Admin](https://user-images.githubusercontent.com/86530370/190001358-ee3ed176-8a80-4364-a718-58539479502b.png)
 
+## APP / VIDEOGAMES :
+<a href="https://project-videogames-black.vercel.app/" target="_blank" rel="noreferrer">
+  VIDEOGAMES
+</a>
+
+✔️Desarrollo de una SPA (Single Page Aplication) con la temática "VideoGames" en donde fue necesario traer la información desde una API externa ("Rawg,io”) y luego almacenarla en su propia base de datos.
+
+✔️ Tecnologías utilizadas: HTML, CSS, Javascript, React, Redux, Node.js, Express, Sequelize, PostgreSQL.
+
+✔️Algunas características del proyecto: barra de navegación, filtros, detalle con descripción de cada vídeo juego y además un formulario controlado para la creación de un nuevo juego.
+<br/>
+
+- Frontend: JavaScript, React , Redux, React-router-DOM, HTML, CSS.
+- Frameworks : MercadoPago, Boostrap.
+- Backend: JavaScripts, Node JS, Express, Sequelize.
+- DataBase: SQL.
+- Deploy: Vercel, Heroku.
+
+![videgames1](https://user-images.githubusercontent.com/86530370/192647932-6f9879a9-e1d5-4759-bdb0-aed430f3ca10.png)
+![video games 2](https://user-images.githubusercontent.com/86530370/192647964-6790515a-4f3c-41c6-9301-dbaa45b4810c.png)
 
 ## Contactarme:
 
